@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#219CD8</color>
+    <color name="colorPrimaryDark">#0052B2</color>
+    <color name="colorAccent">#09AC81</color>
+
+    <color name="white">@android:color/white</color>
+    <color name="black">@android:color/black</color>
+    <color name="red">#EF5350</color>
+    <color name="yellow">#F2CC57</color>
+    <color name="orange">#EFA350</color>
+    <color name="green">#01D08F</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="ripple">#40ffffff</color>
+    <color name="fb">#3954A1</color>
+    <color name="blue_1480CB">#1480CB</color>
+    <color name="disabled">#ACACAC</color>
+
+
+    <color name="gray">#4F4F4F</color>
+    <color name="gray_credit">#f6f9fb</color>
+    <color name="gray_707171">#707171</color>
+    <color name="gray_CBCBCB">#CBCBCB</color>
+    <color name="gray_8F8F8F">#8F8F8F</color>
+    <color name="gray_ECECEC">#ececec</color>
+    <color name="gray_757575">#757575</color>
+    <color name="gray_E8E9EB">#e8e9eb</color>
+    <color name="gray_828282">#828282</color>
+    <color name="gray_1A000000">#1A000000</color>
+    <color name="gray_B2B2B2">#B2B2B2</color>
+    <color name="gray_4C4D4D">#4c4d4d</color>
+    <color name="gray_1F000000">#1F000000</color>
+    <color name="gray_alpha_80_4C4D4D">#994c4d4d</color>
+
+    <color name="gray_alpha_10_000000">#1A000000</color>
+
+    <color name="light">#FAFAFA</color>
+
+    <color name="activity_background">#F5F5F5</color>
+
+    <color name="calculator_unreached_color">#F6F6F6</color>
+    <color name="calculator_text_end">#804c4d4d</color>
+    <color name="calculator_borrow">#003764</color>
+    <color name="calculator_shadow">#26000000</color>
+
+    <color name="calculator_money_light">#8CDBFF</color>
+    <color name="calculator_money_dark">#2b91c0</color>
+
+    <color name="calculator_days_light">#5EEBBE</color>
+    <color name="calculator_days_dark">@color/green</color>
+
+    <color name="sign_up_progress_disabled">#5599d5</color>
+
+    <color name="dotted">#c1ced9</color>
+    <color name="card_line">#404F61</color>
+
+    <color name="viber">#7B58E9</color>
+    <color name="telegram">#1E94D0</color>
+    <color name="messenger">#0080F7</color>
+
+    <color name="primary_50">#50219CD8</color>
+    <color name="primaryDark_50">#500052B2</color>
+    <color name="colorPrimaryDarker">#1A237E</color>
+    <color name="accent_50">#5009AC81</color>
+    <color name="white_50">#50FFFFFF</color>
+    <color name="white_14">#14FFFFFF</color>
+    <color name="white_12">#12FFFFFF</color>
+    <color name="white_11">#11FFFFFF</color>
+    <color name="blue_1F92CB">#1f92cb</color>
+    <color name="red_DB5C60">#DB5C60</color>
+    <color name="red_9E566E">#9E566E</color>
+    <color name="red_875473">#875473</color>
+    <color name="red_FF3B30">#FF3B30</color>
+
+    <color name="blue_1F92CA">#1F92CA</color>
+    <color name="blue_F7FAFC">#F7FAFC</color>
+
+    <color name="arc_default_border_color">#10404040</color>
+    <color name="arc_default_color">#F8F8F8</color>
+    <color name="arc_dash">#409598ad</color>
+    <color name="arc_progress_dash">#40ffffff</color>
+
+    <array name="arc_normal_colors">
+        <item>@color/green</item>
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimary</item>
+        <item>@color/green</item>
+    </array>
+
+    <color name="arc_gradient_yellow_primary">#F1CA54</color>
+    <color name="arc_gradient_yellow_secondary">#FFE9A6</color>
+
+    <array name="arc_yellow_colors">
+        <item>@color/arc_gradient_yellow_primary</item>
+        <item>@color/arc_gradient_yellow_secondary</item>
+        <item>@color/arc_gradient_yellow_primary</item>
+    </array>
+
+    <array name="arc_red_colors">
+        <item>@color/red_875473</item>
+        <item>@color/red_DB5C60</item>
+        <item>@color/red_875473</item>
+    </array>
+
+    <array name="arc_gray_colors">
+        <item>@color/gray_8F8F8F</item>
+        <item>@color/gray_CBCBCB</item>
+        <item>@color/gray_8F8F8F</item>
+    </array>
+
+</resources>
