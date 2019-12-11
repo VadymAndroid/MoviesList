@@ -9,7 +9,7 @@ class SplashActivity : BaseActivity()  {
 
 
 
-    val nav = SupportAppNavigator(this, -1)
+    private val nav = SupportAppNavigator(this, -1)
 
     override fun onResume() {
         super.onResume()
